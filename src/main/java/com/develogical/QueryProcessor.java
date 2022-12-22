@@ -15,7 +15,7 @@ public class QueryProcessor {
                     "writer in the English language and the world's pre-eminent dramatist.";
         }
         else if(query.toLowerCase().contains("beans")){
-            return "are we talking about coffee?";
+            return "Are we talking about coffee ?";
         }
 
         return "";
